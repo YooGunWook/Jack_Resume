@@ -7,8 +7,8 @@
 * 연세대학교 빅데이터 동아리 YBIGTA 14기 (2019.01 ~ 현재)
   * YBIGTA Design Team(2019.03~2019.12), Engineering Team(2020.01 ~ 현재)
   * YBIGTA 15기 학회장
-* [https://blog.naver.com/imas0115](주)IMAS 데이터 분석팀(2019.10.26 ~ 2020.02.05)
-  * ML PdM(머신러닝을 이용한 고장 예측 시스템) 구현
+* [(주)IMAS](https://blog.naver.com/imas0115) 데이터 분석팀(2019.10.26 ~ 2020.02.05)
+  * 빅데이터 분석을 통한 자동 고장 진단 (LOF를 
   * Driving score(안전 운전 점수) 구현
   * 차량 번호판 인식 With OpenCV and Tesseract
 

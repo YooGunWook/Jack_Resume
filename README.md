@@ -64,24 +64,22 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 ### 
 
 ## 📝 Study 
-연세대학교 수업, 와이빅타 빅데이터 동아리 등에서 한 수업 및 스터디
 
-### _Introduction Statistical Learning Study_
-`#Machine Learning` `#An Introduction to Statistical Learning` `#YBIGTA`
+### _알고리즘 공부 및 Coding Test 준비_
+`Python' 'algorithm'
 
-[GitHub Link](https://github.com/Nanjangpan/ISL-Introduction-Statistical-Learning-Study) <br>
+[GitHub Link](https://github.com/YooGunWook/coding_test) <br>
 
-"An Introduction to Statistical Learning" 책을 스터디
-- 통계적 사고를 기반으로 다양한 머신러닝 기법 이해
+[프로그래머스](https://programmers.co.kr/)에 있는 문제들을 기반으로 코딩 테스트 대비 및 알고리즘 공부
 ## 
 
-### _인공지능 및 기계학습 개론_
-`#Machine Learning` `#edwith` `#YBIGTA`
+### _자료구조와 알고리즘 이론_
+`Python` `자료구조` `algorithm'
 
-[GitHub Link](https://github.com/Nanjangpan/study_AI-ML) <br>
+[GitHub Link](https://github.com/YooGunWook/DataStructure) <br>
 
-edwith의 KOOC-KAIST Open Online Course에서 제공하는 인공지능 및 기계학습 개론/심화 수업에 대한 학습 및 자료 정리
-- 통계적 사고를 기반으로 다양한 머신러닝 기법 이해
+**파이썬 자료구조와 알고리즘: 기초 튼튼, 핵심 쏙쏙, 실력 쑥쑥** 자료구조와 알고리즘 이론에 대해 학습 및 정리
+
 ## 
 
 ### _모두를 위한 딥러닝 with tensorflow2_

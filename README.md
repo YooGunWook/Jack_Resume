@@ -17,51 +17,63 @@
 
 ## :octopus: Projects
 
-### _정보보호 R&D 데이터챌린지 2019 Game-bot-detection 대회_
-`#Python` `#Machine Learning` `#우수상`
+### _Dacon - 원자력발전소 상태 판단 경진대회_
+`Python` `Machine Learning` `12위`
 
-[GitHub Link](https://github.com/Nanjangpan/Game-bot-detection) <br>
-[수상내역](https://www.kisis.or.kr/kisis/subIndex/282.do)
+[GitHub Link](https://github.com/YooGunWook/Dacon_competition) <br>
 
 
-MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 봇을 탐지하는 대회
-- 대용량 로그 데이터를 전처리
-- 다양한 머신러닝 기법으로 게임 봇 탐지
+안전한 원자력발전을 위해 한국수력원자력에서 제공한 모의 운전 및 실제 데이터를 기반으로 하는 AI 알고리즘 개발하는 대회
+
+- 다양한 머신러닝 기법으로 원자력발전소의 특정 상태를 판단
 ## 
 
-### _연세 데이터사이언스 경진대회_
-`#Python` `#Machine Learing` `#우수상`
+### _Dacon - 퇴근시간 버스승차인원 예측 경진대회_
+`Python` `Machine Learing`
 
-[수상내역](https://www.yonsei.ac.kr/ocx/news.jsp?mode=view&ar_seq=20191227163929003093&sr_volume=625&list_mode=list&sr_site=S&pager.offset=9)
+[GitHub Link](https://github.com/YooGunWook/Dacon_competition)<br>
 
-연세대학교에서 주최한 신한카드, NICE지니, PACKUS 총 3개의 회사의 데이터를 바탕으로 데이터기반 의사결정 지원 혹은 새로운 가치를 창출하는 대회
-- 패커스의 고객데이터 분석을 통해 회원 ID카드
-'PACKUS는 소상공인을 대상으로 한 포장용기 판매 전문업체'
-- 업종 크롤링, 재구매 예측, User-based CF
+제주도 버스의 효율적인 운행를 위해 퇴근시간 승차인원을 예측하는 모델을 만드는 대회
+
+- 제주도 관련 데이터 크롤링
+- 다양한 머신러닝 기법으로 퇴근시간 승차인원 예측
 ##
 
-### _Auto ML_ 
-`#Python` `#Machine Learning` `#AutoML`
+### _서울시 빅데이터 공모전 - 최적의 체육시설 입지 선정_ 
+`Python` `Machine Learning`
 
-[GitHub Link](https://github.com/Nanjangpan/Auto_ML)
+[GitHub Link](https://github.com/YooGunWook/Seoul_BigData_Competition)<br>
 
-간단한 AUTO ML 구현하기
-* Hyper parameter tuning
-  * Bayesian optimization(TPE)
-* Meta Learning
-* Rule based(Machine Learnig algorithm cheat sheat)
+서울시 공공데이터를 기반으로 자유주제로 분석하는 공모전
+
+* 외부 데이터 크롤링
+* 비지도 학습을 통해 최적의 입지 선정 (K-means Clustering)
 
 ##
 
-### _Kaggle Card fraud detection_ 
-`#Python` `#Machine Learning` 
+### _19-1학기 YBIGTA Conference: 가사로 분석하는 사회_ 
+`Python` `JavaScript` `Konlpy`  `시각화` 
 
-[GitHub Link](https://github.com/Nanjangpan/Project_Kaggle_Card_fraud_detection)
+[GitHub Link](https://github.com/YooGunWook/19-1Conference)<br>
 
-카드 사기 거래를 찾는 캐글 대회
-- XGboost, LightGBM, Smote, Robust scaling, GridSearch 다양한 머신러닝 기법 사용
-<br>
-### 
+시대별로 유행했던 노래의 가사를 당시 시대상과 연관지어 분석하고 시각화한 프로젝트
+
+* 벅스에서 가사 크롤링
+* 논문 리뷰를 통해 TF-IDF와 H-P point 구현
+* JavaScript를 통해 웹으로 시각화 결과 시연
+
+### _19-2학기 YBIGTA Conference: 딥러닝 MBTI 성격 예측_
+`Python` `Deep Learning` `Pytorch` `KOBERT`
+
+[GitHub Link](https://github.com/YooGunWook/19-2_Conference)
+
+주어진 글만 보고 쓴 사람의 성격을 예측하는 프로젝트
+
+* 네이버 MBTI & Health 카페 크롤링
+* Pytorch 기반 KOBERT 사용해서 성격 예측
+
+##
+
 
 ## 📝 Study 
 
@@ -100,7 +112,6 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 [Github Link](https://github.com/YooGunWook/Engineering_SQL_Study)
 
 **[생활코딩](https://opentutorials.org/course/3161) DataBase - MySQL**과 **SQL 첫걸음**, 그리고 **MongoDB in Action** 에서 공부한 내용 정리
-
 - MySQL
 - MongoDB
 ##

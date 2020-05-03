@@ -1,11 +1,12 @@
 # Portfolio
-## About me
+## 👨‍💻 About me
 - name : 유건욱
 * email: gunwook0307@yonsei.ac.kr
 * tel: 010-7438-3307
 * 연세대학교 응용통계학과 4학년
 * 연세대학교 빅데이터 동아리 YBIGTA 14기 (2019.01 ~ 현재)
-  * YBIGTA Design Team(2019.03~2019.12), Engineering Team(2020.01 ~ 현재)
+  * YBIGTA Design Team(2019.03~2019.12) 
+  * YBIGTA Engineering Team(2020.01 ~ 현재)
   * YBIGTA 15기 학회장
 * (주)[IMAS](https://blog.naver.com/imas0115) 데이터 분석팀(2019.10.26 ~ 2020.02.05)
   * LOF를 활용한 자동 고장 진단
@@ -101,7 +102,7 @@ Introduction to Recommender Systems: Non-Personalized and Content-Based에서 �
 - 추천시스템 기초 공부
 ## 
 
-## Courses
+## 📚 Courses
 현재까지 수강한 과목 리스트입니다. 
 
 - 통계학입문

@@ -17,7 +17,7 @@
 
 ## :octopus: Project
 
-### _Dacon - 원자력발전소 상태 판단 경진대회_
+#### _Dacon - 원자력발전소 상태 판단 경진대회_
 `Python` `Machine Learning` `12위`
 
 [GitHub Link](https://github.com/YooGunWook/Dacon_competition) <br>
@@ -28,7 +28,7 @@
 - 다양한 머신러닝 기법으로 원자력발전소의 특정 상태를 판단
 ## 
 
-### _Dacon - 퇴근시간 버스승차인원 예측 경진대회_
+#### _Dacon - 퇴근시간 버스승차인원 예측 경진대회_
 `Python` `Machine Learing`
 
 [GitHub Link](https://github.com/YooGunWook/Dacon_competition)<br>
@@ -39,7 +39,7 @@
 - 다양한 머신러닝 기법으로 퇴근시간 승차인원 예측
 ##
 
-### _19-1학기 YBIGTA Conference: 가사로 분석하는 사회_ 
+#### _19-1학기 YBIGTA Conference: 가사로 분석하는 사회_ 
 `Python` `JavaScript` `Konlpy`  `시각화` 
 
 [GitHub Link](https://github.com/YooGunWook/19-1Conference)<br>
@@ -50,7 +50,7 @@
 * 논문 리뷰를 통해 TF-IDF와 H-P point 구현
 * JavaScript를 통해 웹으로 시각화 결과 시연
 
-### _19-2학기 YBIGTA Conference: 딥러닝 MBTI 성격 예측_
+#### _19-2학기 YBIGTA Conference: 딥러닝 MBTI 성격 예측_
 `Python` `Deep Learning` `Pytorch` `KOBERT`
 
 [GitHub Link](https://github.com/YooGunWook/19-2_Conference)<br>
@@ -61,7 +61,7 @@
 * Pytorch 기반 KOBERT 사용해서 어떤 MBTI를 가지고 있는지 예측
 ##
 
-### _서울시 빅데이터 공모전 - 최적의 체육시설 입지 선정_ 
+#### _서울시 빅데이터 공모전 - 최적의 체육시설 입지 선정_ 
 `Python` `Machine Learning` `QGIS`
 
 [GitHub Link](https://github.com/YooGunWook/Seoul_BigData_Competition)<br>
@@ -72,7 +72,7 @@
 * 비지도 학습을 통해 최적의 입지 선정 (K-means Clustering)
 ##
 
-## _대전시 빅데이터 분석 공모전_ (진행중)
+#### _대전시 빅데이터 분석 공모전_ (진행중)
 `Python`, `QGIS`
 
 [GitHub Link](https://github.com/YooGunWook/Project_Change_Daejeon)
@@ -80,7 +80,7 @@
 대전시 데이터를 활용해서 자유주제로 분석하는 공모전
 ##
 
-## _주간 음원차트 예측_ (진행중)
+#### _주간 음원차트 예측_ (진행중)
 `Python`, `R`, `Machine Learning`
 
 [Github Link](https://github.com/YooGunWook/1nurse4stat)
@@ -91,7 +91,7 @@
 * 추후에 모델링을 통해 예측 모델 만들 예정
 ##
 
-## _KBO 야구선수 연봉 예측_ (진행중)
+#### _KBO 야구선수 연봉 예측_ (진행중)
 `Python` `Machine Learning`
 
 [Github Link](https://github.com/YooGunWook/Human_Resource_Data_Analysis)
@@ -104,7 +104,7 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 
 ## 📝 Study 
 
-### _알고리즘 공부 및 Coding Test 준비_
+#### _알고리즘 공부 및 Coding Test 준비_
 `Python` `algorithm`
 
 [GitHub Link](https://github.com/YooGunWook/coding_test) <br>
@@ -112,7 +112,7 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 [프로그래머스](https://programmers.co.kr/)에 있는 문제들을 기반으로 코딩 테스트 대비 및 알고리즘 공부한 내용 정리
 ## 
 
-### _자료구조와 알고리즘 이론_
+#### _자료구조와 알고리즘 이론_
 `Python` `자료구조` `algorithm`
 
 [GitHub Link](https://github.com/YooGunWook/DataStructure) <br>
@@ -122,7 +122,7 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 - 알고리즘 이론 공부
 ## 
 
-### _Pyspark Study_
+#### _Pyspark Study_
 `Pyspark` `분산처리` `YBIGTA` `스파크 완벽 가이드`
 
 [GitHub Link](https://github.com/YooGunWook/Pyspark_Study) <br>
@@ -133,7 +133,7 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 - RDD 
 ## 
 
-### _SQL_Study_ 
+#### _SQL_Study_ 
 `MySQL` `MongoDB`
 
 [GitHub Link](https://github.com/YooGunWook/Engineering_SQL_Study)

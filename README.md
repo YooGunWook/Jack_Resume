@@ -1,7 +1,8 @@
 Portfolio
 =============
 
-## 👨‍💻 About me
+👨‍💻 About me
+-------------
 * name : 유건욱
 * E-mail: gunwook0307@yonsei.ac.kr
 * Tel: 010-7438-3307
@@ -18,7 +19,8 @@ Portfolio
   * 차트로 알아보는 전기 자동차
 
 
-## :octopus: Project
+:octopus: Project
+-------------
 
 ### _Dacon - 원자력발전소 상태 판단 경진대회_
 `Python` `Machine Learning` `12위`
@@ -106,7 +108,8 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 * 데이터 EDA 진행중
 ##
 
-## 📝 Study 
+📝 Study 
+-------------
 
 ### _알고리즘 공부 및 Coding Test 준비_
 `Python` `algorithm`
@@ -148,7 +151,8 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 ##
 
 
-## 📚 Courses
+📚 Courses
+-------------
 현재까지 수강한 과목 리스트입니다. 
 
 - 통계학입문

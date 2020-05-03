@@ -1,8 +1,8 @@
-# Portfolio
 ## 👨‍💻 About me
 - name : 유건욱
-* email: gunwook0307@yonsei.ac.kr
-* tel: 010-7438-3307
+* E-mail: gunwook0307@yonsei.ac.kr
+* Tel: 010-7438-3307
+* 사용 가능 언어: Python, R
 * 연세대학교 응용통계학과 4학년
 * 연세대학교 빅데이터 동아리 YBIGTA 14기 (2019.01 ~ 현재)
   * YBIGTA Design Team(2019.03~2019.12) 

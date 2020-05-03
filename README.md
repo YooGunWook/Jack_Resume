@@ -15,7 +15,7 @@
   * 차트로 알아보는 전기 자동차
 
 
-## Projects
+## :octopus: Projects
 
 ### _정보보호 R&D 데이터챌린지 2019 Game-bot-detection 대회_
 `#Python` `#Machine Learning` `#우수상`
@@ -61,8 +61,9 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 카드 사기 거래를 찾는 캐글 대회
 - XGboost, LightGBM, Smote, Robust scaling, GridSearch 다양한 머신러닝 기법 사용
 <br>
+### 
 
-## Study 
+## 📝 Study 
 연세대학교 수업, 와이빅타 빅데이터 동아리 등에서 한 수업 및 스터디
 
 ### _Introduction Statistical Learning Study_

@@ -3,7 +3,7 @@ Portfolio
 
 👨‍💻 About me
 -------------
-* name : 유건욱
+* Name : 유건욱
 * E-mail: gunwook0307@yonsei.ac.kr
 * Tel: 010-7438-3307
 * 사용 가능 언어: Python, R

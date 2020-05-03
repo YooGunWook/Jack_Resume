@@ -66,40 +66,45 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 ## 📝 Study 
 
 ### _알고리즘 공부 및 Coding Test 준비_
-`Python' 'algorithm'
+`Python` `algorithm`
 
 [GitHub Link](https://github.com/YooGunWook/coding_test) <br>
 
-[프로그래머스](https://programmers.co.kr/)에 있는 문제들을 기반으로 코딩 테스트 대비 및 알고리즘 공부
+[프로그래머스](https://programmers.co.kr/)에 있는 문제들을 기반으로 코딩 테스트 대비 및 알고리즘 공부한 내용 정리
 ## 
 
 ### _자료구조와 알고리즘 이론_
-`Python` `자료구조` `algorithm'
+`Python` `자료구조` `algorithm`
 
 [GitHub Link](https://github.com/YooGunWook/DataStructure) <br>
 
 **파이썬 자료구조와 알고리즘: 기초 튼튼, 핵심 쏙쏙, 실력 쑥쑥** 자료구조와 알고리즘 이론에 대해 학습 및 정리
-
+- 자료구조 공부
+- 알고리즘 이론 공부
 ## 
 
-### _모두를 위한 딥러닝 with tensorflow2_
-`#Deep Learning` `#모두를 위한 딥러닝` `#시작하세요! 텐서플로 2.0 프로그래밍` `#YBIGTA`
+### _Pyspark Study_
+`Pyspark` `분산처리` `YBIGTA` `스파크 완벽 가이드`
 
-[GitHub Link](https://github.com/Nanjangpan/DeepLearningZeroToAll-tensorflow2) <br>
+[GitHub Link](https://github.com/YooGunWook/Pyspark_Study) <br>
 
-모두를 위한 딥러닝에서 제공하는 딥러닝의 기본 수업과 시작하세요! 텐서플로 2.0 프로그래밍 책에 대한 학습 및 자료 정리
-- 딥러닝 기초 공부
-- Tensorflow2 공부
+**스파크 완벽 가이드** 스파크 이론과 실습에 대해 학습 및 정리
+- Pyspark
+- 구조적 API
+- RDD 
 ## 
 
-### _Introduction to Recommender Systems: Non-Personalized and Content-Based_
-`#Deep Learning` `#모두를 위한 딥러닝` `#YBIGTA`
+### _SQL_Study_ 
+`MySQL` `MongoDB`
 
-[GitHub Link](https://github.com/Nanjangpan/Introduction-to-Recommender-Systems-study) <br>
+[Github Link](https://github.com/YooGunWook/Engineering_SQL_Study)
 
-Introduction to Recommender Systems: Non-Personalized and Content-Based에서 제공하는 추천시스템 수업에 대한 학습 및 자료 정리
-- 추천시스템 기초 공부
-## 
+**[생활코딩](https://opentutorials.org/course/3161) DataBase - MySQL**과 **SQL 첫걸음**, 그리고 **MongoDB in Action** 에서 공부한 내용 정리
+
+- MySQL
+- MongoDB
+##
+
 
 ## 📚 Courses
 현재까지 수강한 과목 리스트입니다. 

@@ -15,7 +15,7 @@
   * 차트로 알아보는 전기 자동차
 
 
-## :octopus: Projects
+## :octopus: Project
 
 ### _Dacon - 원자력발전소 상태 판단 경진대회_
 `Python` `Machine Learning` `12위`
@@ -39,18 +39,6 @@
 - 다양한 머신러닝 기법으로 퇴근시간 승차인원 예측
 ##
 
-### _서울시 빅데이터 공모전 - 최적의 체육시설 입지 선정_ 
-`Python` `Machine Learning`
-
-[GitHub Link](https://github.com/YooGunWook/Seoul_BigData_Competition)<br>
-
-서울시 공공데이터를 기반으로 자유주제로 분석하는 공모전
-
-* 외부 데이터 크롤링
-* 비지도 학습을 통해 최적의 입지 선정 (K-means Clustering)
-
-##
-
 ### _19-1학기 YBIGTA Conference: 가사로 분석하는 사회_ 
 `Python` `JavaScript` `Konlpy`  `시각화` 
 
@@ -65,15 +53,54 @@
 ### _19-2학기 YBIGTA Conference: 딥러닝 MBTI 성격 예측_
 `Python` `Deep Learning` `Pytorch` `KOBERT`
 
-[GitHub Link](https://github.com/YooGunWook/19-2_Conference)
+[GitHub Link](https://github.com/YooGunWook/19-2_Conference)<br>
 
 주어진 글만 보고 쓴 사람의 성격을 예측하는 프로젝트
 
 * 네이버 MBTI & Health 카페 크롤링
-* Pytorch 기반 KOBERT 사용해서 성격 예측
-
+* Pytorch 기반 KOBERT 사용해서 어떤 MBTI를 가지고 있는지 예측
 ##
 
+### _서울시 빅데이터 공모전 - 최적의 체육시설 입지 선정_ 
+`Python` `Machine Learning` `QGIS`
+
+[GitHub Link](https://github.com/YooGunWook/Seoul_BigData_Competition)<br>
+
+서울시 공공데이터를 기반으로 자유주제로 분석하는 공모전
+
+* 외부 데이터 크롤링
+* 비지도 학습을 통해 최적의 입지 선정 (K-means Clustering)
+##
+
+## _대전시 빅데이터 분석 공모전_ (진행중)
+`Python`, `QGIS`
+
+[GitHub Link](https://github.com/YooGunWook/Project_Change_Daejeon)
+
+대전시 데이터를 활용해서 자유주제로 분석하는 공모전
+##
+
+## _주간 음원차트 예측_ (진행중)
+`Python`, `R`, `Machine Learning`
+
+[Github Link](https://github.com/YooGunWook/1nurse4stat)
+
+음원 데이터를 활용한 음원순위 예측 프로젝트
+
+* 현재는 데이터 크롤링 진행중
+* 추후에 모델링을 통해 예측 모델 만들 예정
+##
+
+## _KBO 야구선수 연봉 예측_ (진행중)
+`Python` `Machine Learning`
+
+[Github Link](https://github.com/YooGunWook/Human_Resource_Data_Analysis)
+
+STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하는 프로젝트
+
+* 크롤링 코드 작성 완료
+* 데이터 EDA 진행중
+##
 
 ## 📝 Study 
 
@@ -109,7 +136,7 @@
 ### _SQL_Study_ 
 `MySQL` `MongoDB`
 
-[Github Link](https://github.com/YooGunWook/Engineering_SQL_Study)
+[GitHub Link](https://github.com/YooGunWook/Engineering_SQL_Study)
 
 **[생활코딩](https://opentutorials.org/course/3161) DataBase - MySQL**과 **SQL 첫걸음**, 그리고 **MongoDB in Action** 에서 공부한 내용 정리
 - MySQL

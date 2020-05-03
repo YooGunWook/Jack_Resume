@@ -13,7 +13,7 @@ Portfolio
   * YBIGTA Design Team(2019.03~2019.12) 
   * YBIGTA Engineering Team(2020.01 ~ 현재)
   * YBIGTA 15기 학회장
-* (주)[IMAS](https://blog.naver.com/imas0115) 데이터 분석팀(2019.10.26 ~ 2020.02.05)
+* (주)[IMAS](https://blog.naver.com/imas0115) 데이터 분석팀(2019.10.26 ~ 2020.02.13)
   * LOF를 활용한 자동 고장 진단
   * Driving score(안전 운전 점수) 구현
   * LSTM을 활용한 미션오일 온도 예측

@@ -19,7 +19,7 @@ Portfolio
   * Driving score(안전 운전 점수) 구현
   * LSTM을 활용한 미션오일 온도 예측
   * 차트로 알아보는 전기 자동차
-  * OBD 차량 업데이트 자동화 프로그램
+  * OBD 기기 업데이트 자동화 프로그램
 
 
 :octopus: Project

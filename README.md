@@ -7,6 +7,7 @@ Portfolio
 * E-mail: gunwook0307@yonsei.ac.kr
 * Tel: 010-7438-3307
 * 사용 가능 언어: Python, R
+* 사용 가능 데이터베이스: MySQL
 * 북경한국국제학교 졸업
 * 연세대학교 응용통계학과 4학년 재학중
 * 연세대학교 빅데이터 동아리 YBIGTA 14기 (2019.01 ~ 현재)

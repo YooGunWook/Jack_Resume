@@ -6,10 +6,15 @@ Portfolio
 * Name : 유건욱
 * E-mail: gunwook0307@yonsei.ac.kr
 * Tel: 010-7438-3307
+<<<<<<< HEAD
+* 사용 가능 언어: Python, R, My SQL, MongoDB
+* 연세대학교 응용통계학과 4학년
+=======
 * 사용 가능 언어: Python, R
 * 사용 가능 DBMS: MySQL
 * 북경한국국제학교 졸업
 * 연세대학교 응용통계학과 4학년 재학중
+>>>>>>> b67f8146ee38b615a4aae69fbe998f9da5dd97b6
 * 연세대학교 빅데이터 동아리 YBIGTA 14기 (2019.01 ~ 현재)
   * YBIGTA Design Team(2019.03~2019.12) 
   * YBIGTA Engineering Team(2020.01 ~ 현재)
@@ -41,13 +46,13 @@ Portfolio
 
 [GitHub Link](https://github.com/YooGunWook/Dacon_competition)<br>
 
-제주도 버스의 효율적인 운행를 위해 퇴근시간 승차인원을 예측하는 모델을 만드는 대회
+제주도 버스의 효율적인 운행을 위해 퇴근시간 승차인원을 예측하는 모델을 만드는 대회
 
 - 제주도 관련 데이터 크롤링
 - 다양한 머신러닝 기법으로 퇴근시간 승차인원 예측
 ##
 
-### _19-1학기 YBIGTA Conference: 가사로 분석하는 사회_ 
+### _19-1학기 YBIGTA Conference - 가사로 분석하는 사회_ 
 `Python` `JavaScript` `Konlpy`  `시각화` 
 
 [GitHub Link](https://github.com/YooGunWook/19-1Conference)<br>
@@ -59,7 +64,7 @@ Portfolio
 * JavaScript를 통해 웹으로 시각화 결과 시연
 ##
 
-### _19-2학기 YBIGTA Conference: 딥러닝 MBTI 성격 예측_
+### _19-2학기 YBIGTA Conference - 딥러닝 MBTI 성격 예측_
 `Python` `Deep Learning` `Pytorch` `KOBERT`
 
 [GitHub Link](https://github.com/YooGunWook/19-2_Conference)<br>
@@ -81,12 +86,17 @@ Portfolio
 * 비지도 학습을 통해 최적의 입지 선정 (K-means Clustering)
 ##
 
-### _대전시 빅데이터 분석 공모전_ (진행중)
-`Python`, `QGIS`
+### _대전시 빅데이터 분석 공모전: 대전시 유소년 대상 의료서비스 취약지역 분석 및 정책 제언_
+`Python`, `QGIS`, 'Tableau', 'R'
 
-[GitHub Link](https://github.com/YooGunWook/Project_Change_Daejeon)
+[GitHub Link](https://github.com/hw79chopin/Project_Change_Daejeon)
 
 대전시 데이터를 활용해서 자유주제로 분석하는 공모전
+
+* 외부 데이터 크롤링
+* Neural Network 기반 SOM을 통한 클러스터링
+* QGIS, Tableau를 통한 시각화
+
 ##
 
 ### _주간 음원차트 예측_ (진행중)
@@ -110,6 +120,11 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 * 크롤링 코드 작성 완료
 * 데이터 EDA 진행중
 ##
+
+###_카카오아레나: 멜론 음원 추천 시스템 구현_(진행중)
+[Github Link](https://github.com/airotod/reco-for-melon)
+
+멜론 DJ Playlist를 통해 음원 추천 시스템을 구현하는 대회 
 
 📝 Study 
 -------------

@@ -84,7 +84,7 @@ Portfolio
 ##
 
 ### _대전시 빅데이터 분석 공모전: 대전시 유소년 대상 의료서비스 취약지역 분석 및 정책 제언_
-`Python`, `QGIS`, 'Tableau', 'R'
+`Python`, `QGIS`, `Tableau`, `R`
 
 [GitHub Link](https://github.com/hw79chopin/Project_Change_Daejeon)
 

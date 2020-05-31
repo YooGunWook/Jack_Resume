@@ -6,7 +6,7 @@ Portfolio
 * Name : 유건욱
 * E-mail: gunwook0307@yonsei.ac.kr
 * Tel: 010-7438-3307
-* 사용 가능 언어: Python, R, My SQL, MongoDB
+* 사용 가능 언어: Python, R, MySQL, MongoDB
 * 연세대학교 응용통계학과 4학년
 * 사용 가능 언어: Python, R
 * 사용 가능 DBMS: MySQL

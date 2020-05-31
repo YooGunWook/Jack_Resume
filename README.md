@@ -6,15 +6,12 @@ Portfolio
 * Name : 유건욱
 * E-mail: gunwook0307@yonsei.ac.kr
 * Tel: 010-7438-3307
-<<<<<<< HEAD
 * 사용 가능 언어: Python, R, My SQL, MongoDB
 * 연세대학교 응용통계학과 4학년
-=======
 * 사용 가능 언어: Python, R
 * 사용 가능 DBMS: MySQL
 * 북경한국국제학교 졸업
 * 연세대학교 응용통계학과 4학년 재학중
->>>>>>> b67f8146ee38b615a4aae69fbe998f9da5dd97b6
 * 연세대학교 빅데이터 동아리 YBIGTA 14기 (2019.01 ~ 현재)
   * YBIGTA Design Team(2019.03~2019.12) 
   * YBIGTA Engineering Team(2020.01 ~ 현재)
@@ -121,11 +118,11 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 * 데이터 EDA 진행중
 ##
 
-###_카카오아레나: 멜론 음원 추천 시스템 구현_(진행중)
+### _카카오아레나: 멜론 음원 추천 시스템 구현_(진행중)
 [Github Link](https://github.com/airotod/reco-for-melon)
 
 멜론 DJ Playlist를 통해 음원 추천 시스템을 구현하는 대회 
-
+##
 📝 Study 
 -------------
 

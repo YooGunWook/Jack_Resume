@@ -12,6 +12,7 @@ Portfolio
 * 사용 가능 DBMS: MySQL
 * 북경한국국제학교 졸업
 * 연세대학교 응용통계학과 4학년 재학중
+  * 응용통계학과 과대표 (2018.01 ~ 2018.11)
 * 연세대학교 빅데이터 동아리 YBIGTA 14기 (2019.01 ~ 현재)
   * YBIGTA Design Team(2019.03~2019.12) 
   * YBIGTA Engineering Team(2020.01 ~ 현재)

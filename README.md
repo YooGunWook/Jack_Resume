@@ -98,7 +98,7 @@ Portfolio
 
 ##
 
-### _주간 음원차트 예측_ (진행중)
+### _주간 음원차트 예측_
 `Python`, `R`, `Machine Learning`
 
 [Github Link](https://github.com/YooGunWook/1nurse4stat)
@@ -109,7 +109,7 @@ Portfolio
 * 추후에 모델링을 통해 예측 모델 만들 예정
 ##
 
-### _KBO 야구선수 연봉 예측_ (진행중)
+### _KBO 야구선수 연봉 예측_
 `Python` `Machine Learning`
 
 [Github Link](https://github.com/YooGunWook/Human_Resource_Data_Analysis)
@@ -120,11 +120,6 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 * 데이터 EDA 진행중
 ##
 
-### _카카오아레나: 멜론 음원 추천 시스템 구현_(진행중)
-[Github Link](https://github.com/airotod/reco-for-melon)
-
-멜론 DJ Playlist를 통해 음원 추천 시스템을 구현하는 대회 
-##
 📝 Study 
 -------------
 

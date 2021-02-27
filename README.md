@@ -5,9 +5,8 @@ Portfolio
 -------------
 * Name : 유건욱
 * E-mail: gunwook0307@yonsei.ac.kr
-* 사용 가능 언어: Python, R, MySQL, MongoDB
-* 연세대학교 응용통계학과 4학년
 * 사용 가능 언어: Python, R
+* 연세대학교 응용통계학과 4학년
 * 사용 가능 DBMS: MySQL, MongoDB
 * 북경한국국제학교 졸업
 * 연세대학교 응용통계학과 4학년 재학중
@@ -25,6 +24,10 @@ Portfolio
 * (주)네이버웹툰 ToonRadar Team(2020.06.29 ~ 2020.09.11)
   * 불펌 사이트 탐지 모델 제작
   * 실시간 모니터링 시스템 구축
+* (주)데이터비 개발 인턴(2021.01.04 ~ 2021.07.03)
+  * 영어 문장 문법 오류 진단 모델 개발
+  * lexical substitution 모델 개발
+  * synonym 모듈 개발
   
 :octopus: Project
 -------------

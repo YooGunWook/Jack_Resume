@@ -7,8 +7,8 @@ Portfolio
 * E-mail: gunwook0307@yonsei.ac.kr
 * 사용 가능 언어: Python, R
 * 사용 가능 분석 툴: sklearn, pytorch
-* 연세대학교 응용통계학과 4학년
 * 사용 가능 DBMS: MySQL, MongoDB
+* 연세대학교 응용통계학과 4학년
 * 북경한국국제학교 졸업
 * 연세대학교 응용통계학과 4학년 재학중
   * 응용통계학과 과대표 (2018.01 ~ 2018.11)

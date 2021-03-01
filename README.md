@@ -25,7 +25,7 @@ Portfolio
 * (주)네이버웹툰 ToonRadar Team(2020.06.29 ~ 2020.09.11)
   * 불펌 사이트 탐지 모델 제작
   * 실시간 모니터링 시스템 구축
-* (주)데이터비 개발 인턴(2021.01.04 ~ 2021.07.03)
+* (주)데이터비 개발팀(2021.01.04 ~ 2021.07.03)
   * 영어 문장 문법 오류 진단 모델 개발
   * lexical substitution 모델 개발
   * synonym 모듈 개발
@@ -41,7 +41,7 @@ Portfolio
 
 안전한 원자력발전을 위해 한국수력원자력에서 제공한 모의 운전 및 실제 데이터를 기반으로 하는 AI 알고리즘 개발하는 대회
 
-- 다양한 머신러닝 기법으로 원자력발전소의 특정 상태를 판단
+- 다양한 머신러닝 기법으로 원자력발전소의 상태를 예측
 ## 
 
 ### _Dacon - 퇴근시간 버스승차인원 예측 경진대회_
@@ -127,8 +127,27 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 ##
 
 ### _데이터 크라우드 소싱 사이트 구축 프로젝트_
+`NodeJS` `JavaScript` `MySQL`
+
+[Github Link](https://github.com/ChoSeokJu/Database-Project)
+
+데이터 크라우드 소싱 사이트 구축
+
+- NodeJS기반 벡엔드 개발
+- 사이트 구축을 위한 디비 설계
+##
+
+### _산학협력 프로젝트 (수학 문제 유형 예측)_
+`Python` `Pytorch` `Transformer` `NLP`
+
+[Github Link](https://github.com/YooGunWook/MATHPRESSO_NLP_Project)
 
 
+수학 문제에 대한 데이터가 주어질 때 문제의 유형을 예측하는 프로젝트
+
+- Transformer 기반 딥러닝 모델 활용 (BERT, Electra)
+
+##
 📝 Study 
 -------------
 

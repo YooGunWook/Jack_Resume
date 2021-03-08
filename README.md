@@ -5,17 +5,20 @@ Portfolio
 -------------
 * Name : 유건욱
 * E-mail: gunwook0307@yonsei.ac.kr
-* 사용 가능 언어: Python, R
+* 사용 가능 언어: Python, R, NodeJS
 * 사용 가능 분석 툴: sklearn, pytorch
 * 사용 가능 DBMS: MySQL, MongoDB
-* 연세대학교 응용통계학과 4학년
+* 사용 가능 개발 툴: Docker, Apache Spark, Hive
+
+🏃 Career
+-------------
 * 북경한국국제학교 졸업
 * 연세대학교 응용통계학과 수료 (졸업예정)
   * 응용통계학과 과대표 (2018.01 ~ 2018.11)
 * 연세대학교 빅데이터 학회 YBIGTA 14기 (2019.01 ~ 2021.02)
-  * YBIGTA Design Team (2019.03~2019.12) 
+  * YBIGTA Design Team (2019.03~2019.12)
+  * YBIGTA 15기 학회장 (2019.07 ~ 2019.12)
   * YBIGTA Engineering Team (2020.01 ~ 2021.02)
-  * YBIGTA 15기 학회장 (2020.07 ~ 2020.12)
 * (주)[IMAS](https://blog.naver.com/imas0115) 데이터 분석팀(2019.10.26 ~ 2020.02.13)
   * LOF를 활용한 자동 고장 진단
   * Driving score(안전 운전 점수) 구현
@@ -42,7 +45,7 @@ Portfolio
 안전한 원자력발전을 위해 한국수력원자력에서 제공한 모의 운전 및 실제 데이터를 기반으로 하는 AI 알고리즘 개발하는 대회
 
 - 다양한 머신러닝 기법으로 원자력발전소의 상태를 예측
-## 
+#
 
 ### _Dacon - 퇴근시간 버스승차인원 예측 경진대회_
 `Python` `Machine Learing`
@@ -53,7 +56,7 @@ Portfolio
 
 - 제주도 관련 데이터 크롤링
 - 다양한 머신러닝 기법으로 퇴근시간 승차인원 예측
-##
+#
 
 ### _19-1학기 YBIGTA Conference - 가사로 분석하는 사회_ 
 `Python` `JavaScript` `Konlpy`  `시각화` 
@@ -65,7 +68,7 @@ Portfolio
 * 벅스에서 가사 크롤링
 * 논문 리뷰를 통해 TF-IDF와 H-P point 구현
 * JavaScript를 통해 웹으로 시각화 결과 시연
-##
+#
 
 ### _19-2학기 YBIGTA Conference - 딥러닝 MBTI 성격 예측_
 `Python` `Deep Learning` `Pytorch` `KOBERT`
@@ -76,7 +79,7 @@ Portfolio
 
 * 네이버 MBTI & Health 카페 크롤링
 * Pytorch 기반 KOBERT 사용해서 어떤 MBTI를 가지고 있는지 예측
-##
+#
 
 ### _서울시 빅데이터 공모전 - 최적의 체육시설 입지 선정_ 
 `Python` `Machine Learning` `QGIS`
@@ -87,7 +90,7 @@ Portfolio
 
 * 외부 데이터 크롤링
 * 비지도 학습을 통해 최적의 입지 선정 (K-means Clustering)
-##
+#
 
 ### _대전시 빅데이터 분석 공모전: 대전시 유소년 대상 의료서비스 취약지역 분석 및 정책 제언_
 `Python`, `QGIS`, `Tableau`, `R`
@@ -99,8 +102,7 @@ Portfolio
 * 외부 데이터 크롤링
 * Neural Network 기반 SOM을 통한 클러스터링
 * QGIS, Tableau를 통한 시각화
-
-##
+#
 
 ### _주간 음원차트 예측_
 `Python`, `R`, `Machine Learning`
@@ -112,7 +114,7 @@ Portfolio
 * 음원차트 사이트 크롤링
 * machine learning 모델을 통한 음원 순우 예측 (boosting model)
 * 우수 프로젝트 선정
-##
+#
 
 ### _KBO 야구선수 연봉 예측_
 `Python` `Machine Learning`
@@ -124,7 +126,7 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 * STATIZ 사이트 크롤링
 * 데이터 EDA를 통한 인사이트 추출
 * machine learning 모델을 통한 선수 연봉 예측 
-##
+#
 
 ### _데이터 크라우드 소싱 사이트 구축 프로젝트_
 `NodeJS` `JavaScript` `MySQL`
@@ -135,7 +137,7 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 
 - NodeJS기반 벡엔드 개발
 - 사이트 구축을 위한 디비 설계
-##
+#
 
 ### _산학협력 프로젝트 (수학 문제 유형 예측)_
 `Python` `Pytorch` `Transformer` `NLP`
@@ -146,8 +148,8 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 수학 문제에 대한 데이터가 주어질 때 문제의 유형을 예측하는 프로젝트
 
 - Transformer 기반 딥러닝 모델 활용 (BERT, Electra)
+#
 
-##
 📝 Study 
 -------------
 
@@ -157,7 +159,7 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 [GitHub Link](https://github.com/YooGunWook/coding_test) <br>
 
 [프로그래머스](https://programmers.co.kr/)에 있는 문제들을 기반으로 코딩 테스트 대비 및 알고리즘 공부한 내용 정리
-## 
+#
 
 ### _자료구조와 알고리즘 이론_
 `Python` `자료구조` `algorithm`
@@ -167,7 +169,7 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 **파이썬 자료구조와 알고리즘: 기초 튼튼, 핵심 쏙쏙, 실력 쑥쑥** 자료구조와 알고리즘 이론에 대해 학습 및 정리
 - 자료구조 공부
 - 알고리즘 이론 공부
-## 
+#
 
 ### _Pyspark Study_
 `Pyspark` `분산처리` `YBIGTA` `스파크 완벽 가이드`
@@ -178,7 +180,7 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 - Pyspark
 - 구조적 API
 - RDD 
-## 
+#
 
 ### _SQL_Study_ 
 `MySQL` `MongoDB`
@@ -188,7 +190,7 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 **[생활코딩](https://opentutorials.org/course/3161) DataBase - MySQL**과 **SQL 첫걸음**, 그리고 **MongoDB in Action** 에서 공부한 내용 정리
 - MySQL
 - MongoDB
-##
+#
 
 
 📚 Courses

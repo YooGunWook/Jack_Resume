@@ -5,7 +5,7 @@ Portfolio
 -------------
 * Name : 유건욱
 * E-mail: gunwook0307@yonsei.ac.kr
-* 사용 가능 언어: Python, R, NodeJS
+* 사용 가능 언어: Python, R, Node.JS
 * 사용 가능 분석 툴: sklearn, pytorch
 * 사용 가능 DBMS: MySQL, MongoDB
 * 사용 경험 있는 개발 툴: Docker, Apache Spark, Hive
@@ -137,7 +137,7 @@ STATIZ 데이터 기반으로 선수들의 능력만으로 연봉을 예측하�
 
 데이터 크라우드 소싱 사이트 구축
 
-- NodeJS기반 벡엔드 개발
+- Node.JS 기반 벡엔드 개발
 - 사이트 구축을 위한 디비 설계
 #
 

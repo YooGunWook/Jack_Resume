@@ -8,7 +8,8 @@ Portfolio
 * 사용 가능 언어: Python, R, NodeJS
 * 사용 가능 분석 툴: sklearn, pytorch
 * 사용 가능 DBMS: MySQL, MongoDB
-* 사용 가능 개발 툴: Docker, Apache Spark, Hive
+* 사용 경험 있는 개발 툴: Docker, Apache Spark, Hive
+#
 
 🏃 Career
 -------------
@@ -32,7 +33,8 @@ Portfolio
   * 영어 문장 문법 오류 진단 모델 개발
   * lexical substitution 모델 개발
   * synonym 모듈 개발
-  
+#
+
 :octopus: Project
 -------------
 

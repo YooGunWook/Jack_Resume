@@ -33,6 +33,10 @@ Resume
   * 영어 문장 문법 오류 진단 모델 개발
   * lexical substitution 모델 개발
   * synonym 모듈 개발
+  * 영어 문장 문법 오류 위치 탐지 모델 개발
+  * 문장 추천 최적화 모델 개발
+* SK브로드밴드 AI/DT Tech Team(2021.07.19 ~ 2021.08.27)
+  * VOD 추천 시스템 개발
 
 :octopus: Project
 -------------
